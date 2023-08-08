@@ -1,0 +1,6 @@
+# requirements.txt
+
+pygame
+socket
+threading
+```
