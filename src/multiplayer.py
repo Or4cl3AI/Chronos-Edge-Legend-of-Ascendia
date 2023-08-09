@@ -1,8 +1,7 @@
-```python
 import socket
 import threading
-from src.game import gameState
-from src.characters import playerCharacter
+from django.src.game import gameState
+from django.src.characters import playerCharacter
 
 class MultiplayerServer:
     def __init__(self, host='localhost', port=55555):
@@ -82,4 +81,3 @@ def start_multiplayer_mode():
     nickname = playerCharacter.name
     client = MultiplayerClient(nickname)
     client.start_client()
-```
