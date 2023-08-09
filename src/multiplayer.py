@@ -1,7 +1,8 @@
 import socket
+import socket
 import threading
-from django.src.game import gameState
-from django.src.characters import playerCharacter
+from django.src.game import GameState
+from django.src.characters import PlayerCharacter
 
 class MultiplayerServer:
     def __init__(self, host='localhost', port=55555):
