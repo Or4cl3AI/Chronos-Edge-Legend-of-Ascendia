@@ -1,5 +1,4 @@
 import socket
-import socket
 import threading
 from django.src.game import GameState
 from django.src.characters import PlayerCharacter
