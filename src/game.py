@@ -1,7 +1,6 @@
-```python
 import pygame
-from src import characters, weapons, physics, levels, multiplayer, dialogues, choices, missions, arenas, demo
-from config import settings, controls, game_options, graphics_options, sound_options, multiplayer_options, physics_options, character_options, weapon_options, level_options, dialogue_options, choice_options, mission_options, arena_options, demo_options
+from django.src import characters, weapons, physics, levels, multiplayer, dialogues, choices, missions, arenas, demo
+from django.config import settings, controls, game_options, graphics_options, sound_options, multiplayer_options, physics_options, character_options, weapon_options, level_options, dialogue_options, choice_options, mission_options, arena_options, demo_options
 
 class Game:
     def __init__(self):
@@ -78,4 +77,3 @@ class Game:
 if __name__ == "__main__":
     game = Game()
     game.startGame()
-```
