@@ -1,60 +1,21 @@
-1. Shared Variables:
-   - `gameState`: Holds the current state of the game.
-   - `playerCharacter`: Stores the player's character data.
-   - `gameSettings`: Contains the game's configuration settings.
-   - `gameControls`: Stores the game's control settings.
-   - `gameOptions`: Contains the game's options settings.
-   - `currentLevel`: Holds the current level data.
-   - `currentMission`: Stores the current mission data.
-   - `currentDialogue`: Holds the current dialogue data.
-   - `currentChoice`: Stores the current choice data.
-   - `currentArena`: Holds the current arena data.
-   - `demoState`: Contains the demo's state data.
+Shared Dependencies:
 
-2. Data Schemas:
-   - `CharacterSchema`: Defines the structure of character data.
-   - `WeaponSchema`: Defines the structure of weapon data.
-   - `LevelSchema`: Defines the structure of level data.
-   - `MissionSchema`: Defines the structure of mission data.
-   - `DialogueSchema`: Defines the structure of dialogue data.
-   - `ChoiceSchema`: Defines the structure of choice data.
-   - `ArenaSchema`: Defines the structure of arena data.
-
-3. DOM Element IDs:
-   - `gameCanvas`: The main game display area.
-   - `playerHUD`: The player's heads-up display.
-   - `dialogueBox`: The area where dialogues are displayed.
-   - `choiceBox`: The area where choices are displayed.
-   - `missionStatus`: The area where mission status is displayed.
-   - `arenaStatus`: The area where arena status is displayed.
-   - `demoStatus`: The area where demo status is displayed.
-
-4. Message Names:
-   - `gameStart`: Signals the start of the game.
-   - `gameEnd`: Signals the end of the game.
-   - `levelStart`: Signals the start of a level.
-   - `levelEnd`: Signals the end of a level.
-   - `missionStart`: Signals the start of a mission.
-   - `missionEnd`: Signals the end of a mission.
-   - `dialogueStart`: Signals the start of a dialogue.
-   - `dialogueEnd`: Signals the end of a dialogue.
-   - `choiceMade`: Signals that a choice has been made.
-   - `arenaStart`: Signals the start of an arena.
-   - `arenaEnd`: Signals the end of an arena.
-   - `demoStart`: Signals the start of the demo.
-   - `demoEnd`: Signals the end of the demo.
-
-5. Function Names:
-   - `startGame()`: Starts the game.
-   - `endGame()`: Ends the game.
-   - `startLevel()`: Starts a level.
-   - `endLevel()`: Ends a level.
-   - `startMission()`: Starts a mission.
-   - `endMission()`: Ends a mission.
-   - `startDialogue()`: Starts a dialogue.
-   - `endDialogue()`: Ends a dialogue.
-   - `makeChoice()`: Makes a choice.
-   - `startArena()`: Starts an arena.
-   - `endArena()`: Ends an arena.
-   - `startDemo()`: Starts the demo.
-   - `endDemo()`: Ends the demo.
+1. "UnrealEngine5" - The game engine used across all files for rendering visuals.
+2. "HavokPhysics" - The physics engine used in files like "physics.py", "character.py", "weapons.py", "environments.py", and "enemies.py".
+3. "Character" - Data schema for the player character, used in "character.py", "weapons.py", "missions.py", "pvp_arena.py", and "demo.py".
+4. "Weapon" - Data schema for weapons, used in "weapons.py", "character.py", and "enemies.py".
+5. "Environment" - Data schema for game environments, used in "environments.py", "character.py", "enemies.py", and "demo.py".
+6. "Enemy" - Data schema for enemy characters, used in "enemies.py", "missions.py", "pvp_arena.py", and "demo.py".
+7. "PlayerID" - Unique identifier for each player, used in "multiplayer.py", "pvp_arena.py", and "missions.py".
+8. "Mission" - Data schema for missions, used in "missions.py", "multiplayer.py", and "demo.py".
+9. "Dialogue" - Data schema for dialogues, used in "dialogues.py", "storyline.py", and "choices.py".
+10. "Choice" - Data schema for player choices, used in "choices.py", "storyline.py", and "dialogues.py".
+11. "StorylineEvent" - Data schema for storyline events, used in "storyline.py", "dialogues.py", and "choices.py".
+12. "PvPArena" - Data schema for PvP arenas, used in "pvp_arena.py", "multiplayer.py", and "demo.py".
+13. "Demo" - Data schema for the demo, used in "demo.py", "main.py", and all other files for showcasing purposes.
+14. "initGame()" - Function to initialize the game, used in "main.py" and "demo.py".
+15. "startMission()" - Function to start a mission, used in "missions.py", "multiplayer.py", and "pvp_arena.py".
+16. "engageDialogue()" - Function to start a dialogue, used in "dialogues.py", "storyline.py", and "choices.py".
+17. "makeChoice()" - Function to make a choice, used in "choices.py", "dialogues.py", and "storyline.py".
+18. "startPvP()" - Function to start a PvP match, used in "pvp_arena.py" and "multiplayer.py".
+19. "startDemo()" - Function to start the demo, used in "demo.py" and "main.py".
