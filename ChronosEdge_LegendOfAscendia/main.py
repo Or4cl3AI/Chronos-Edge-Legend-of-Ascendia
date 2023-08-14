@@ -1,6 +1,7 @@
-```python
 import sys
 from game_engine import UnrealEngine5
+from build import build_demo
+from build import build_demo
 from character import Character
 from weapons import Weapon
 from environments import Environment
@@ -36,9 +37,14 @@ def startDemo(demo):
     demo.start()
 
 def main():
-    demo = initGame()
-    startDemo(demo)
+    if len(sys.argv) > 1 and sys.argv[1] == "build":
+        build_demo()
+    def main():
+        if len(sys.argv) > 1 and sys.argv[1] == "build":
+            build_demo()
+        else:
+            demo = initGame()
+            startDemo(demo)
 
 if __name__ == "__main__":
     main()
-```
