@@ -1,7 +1,8 @@
 repo_name: Or4cl3AI/Chronos-Edge-Legend-of-Ascendia
 report_id: 3bb69f6dc2a205cccb0c54c817f720ea
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-24T01:56:40+00:00'
+timestamp: '2024-01-05T08:34:22+00:00'
 requested_by: Or4cl3AI
 provider: github
 branch: main
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/Or4cl3AI/Chronos-Edge-Legend-of-Ascendia
   detection_source: Repo Metadata
 - name: Matplotlib
   description: A plotting library for the Python programming language
@@ -25,6 +27,7 @@ tools:
   category: Libraries
   sub_category: Charting Libraries
   image_url: https://img.stackshare.io/service/2993/2DZC4KaA_400x400.jpg
+  detection_source_url: https://github.com/Or4cl3AI/Chronos-Edge-Legend-of-Ascendia/blob/main/ChronosEdge_LegendOfAscendia/requirements.txt
   detection_source: ChronosEdge_LegendOfAscendia/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-13 22:48:30.000000000 Z
@@ -36,6 +39,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Or4cl3AI/Chronos-Edge-Legend-of-Ascendia
   detection_source: Repo Metadata
 - name: PyPI
   description: A repository of software for the Python programming language
@@ -45,6 +49,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/Or4cl3AI/Chronos-Edge-Legend-of-Ascendia/blob/main/ChronosEdge_LegendOfAscendia/requirements.txt
   detection_source: ChronosEdge_LegendOfAscendia/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-13 22:48:30.000000000 Z
@@ -57,6 +62,7 @@ tools:
   category: Application Hosting
   sub_category: Web Servers
   image_url: https://img.stackshare.io/service/6969/zopeHIres_400x400.jpg
+  detection_source_url: https://github.com/Or4cl3AI/Chronos-Edge-Legend-of-Ascendia/blob/main/ChronosEdge_LegendOfAscendia/requirements.txt
   detection_source: ChronosEdge_LegendOfAscendia/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-13 22:48:30.000000000 Z
@@ -69,7 +75,7 @@ tools:
   category: Application Hosting
   sub_category: Web Servers
   image_url: https://img.stackshare.io/service/1772/s9Bm2Iyx_400x400.jpg
-  detection_source_url: ChronosEdge_LegendOfAscendia/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/Chronos-Edge-Legend-of-Ascendia/blob/main/ChronosEdge_LegendOfAscendia/requirements.txt
   detection_source: ChronosEdge_LegendOfAscendia/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-13 22:48:30.000000000 Z
@@ -81,6 +87,7 @@ tools:
   category: Assets and Media
   sub_category: Image Processing and Management
   image_url: https://img.stackshare.io/service/2375/default_1f67b0ca7416a9f52beb655f90b5602d5ef74b75.jpg
+  detection_source_url: https://github.com/Or4cl3AI/Chronos-Edge-Legend-of-Ascendia/blob/main/ChronosEdge_LegendOfAscendia/requirements.txt
   detection_source: ChronosEdge_LegendOfAscendia/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-13 22:48:30.000000000 Z
@@ -94,7 +101,7 @@ tools:
   category: Libraries
   sub_category: Data Science Tools
   image_url: https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png
-  detection_source_url: ChronosEdge_LegendOfAscendia/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/Chronos-Edge-Legend-of-Ascendia/blob/main/ChronosEdge_LegendOfAscendia/requirements.txt
   detection_source: ChronosEdge_LegendOfAscendia/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-13 22:48:30.000000000 Z
@@ -108,13 +115,13 @@ tools:
   category: Libraries
   sub_category: Data Science Tools
   image_url: https://img.stackshare.io/service/3303/scipyshiny_small.png
-  detection_source_url: ChronosEdge_LegendOfAscendia/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/Chronos-Edge-Legend-of-Ascendia/blob/main/ChronosEdge_LegendOfAscendia/requirements.txt
   detection_source: ChronosEdge_LegendOfAscendia/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-13 22:48:30.000000000 Z
 - name: autobahn
   description: WebSocket client &amp; server library, WAMP real-time framework
-  package_url: https://pypi.org/autobahn
+  package_url: https://pypi.org/project/autobahn
   version: 21.3.1
   license: MIT
   open_source: true
@@ -122,13 +129,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20100/default_029b9bbfb6be2cd34bebeda5b8e1e80a1d22441c.png
-  detection_source_url: ChronosEdge_LegendOfAscendia/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/Chronos-Edge-Legend-of-Ascendia/blob/main/ChronosEdge_LegendOfAscendia/requirements.txt
   detection_source: ChronosEdge_LegendOfAscendia/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-13 22:48:30.000000000 Z
 - name: beautifulsoup4
   description: Screen-scraping library
-  package_url: https://pypi.org/beautifulsoup4
+  package_url: https://pypi.org/project/beautifulsoup4
   version: 4.9.3
   license: MIT
   open_source: true
@@ -136,14 +143,14 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19838/default_85689b353a3a9409328e253ea28d859d29151e0c.png
-  detection_source_url: ChronosEdge_LegendOfAscendia/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/Chronos-Edge-Legend-of-Ascendia/blob/main/ChronosEdge_LegendOfAscendia/requirements.txt
   detection_source: ChronosEdge_LegendOfAscendia/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-13 22:48:30.000000000 Z
 - name: cryptography
   description: Cryptography is a package which provides cryptographic recipes and
     primitives to Python developers
-  package_url: https://pypi.org/cryptography
+  package_url: https://pypi.org/project/cryptography
   version: 3.4.7
   license: BSD-3-Clause,Apache-2.0
   open_source: true
@@ -151,7 +158,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19850/default_db2ab2702f70e20c272f6ce65251108fb2b8f1ea.png
-  detection_source_url: ChronosEdge_LegendOfAscendia/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/Chronos-Edge-Legend-of-Ascendia/blob/main/ChronosEdge_LegendOfAscendia/requirements.txt
   detection_source: ChronosEdge_LegendOfAscendia/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-13 22:48:30.000000000 Z
@@ -169,12 +176,12 @@ tools:
     detected_date: Feb 8
     severity: moderate
     first_patched: 39.0.1
-  - name: Vulnerable OpenSSL included in cryptography wheels
-    cve_id: 
-    cve_url: https://github.com/advisories/GHSA-5cpq-8wj7-hf2v
-    detected_date: Jun 3
-    severity: low
-    first_patched: 41.0.0
+  - name: cryptography vulnerable to NULL-dereference when loading PKCS7 certificates
+    cve_id: CVE-2023-49083
+    cve_url: https://github.com/advisories/GHSA-jfhm-5ghh-2f97
+    detected_date: Nov 29
+    severity: moderate
+    first_patched: 41.0.6
   - name: pyca/cryptography's wheels include vulnerable OpenSSL
     cve_id: 
     cve_url: https://github.com/advisories/GHSA-jm77-qphf-c4w8
@@ -187,9 +194,15 @@ tools:
     detected_date: Sep 22
     severity: low
     first_patched: 41.0.4
+  - name: Vulnerable OpenSSL included in cryptography wheels
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-5cpq-8wj7-hf2v
+    detected_date: Jun 3
+    severity: low
+    first_patched: 41.0.0
 - name: eventlet
   description: Highly concurrent networking library
-  package_url: https://pypi.org/eventlet
+  package_url: https://pypi.org/project/eventlet
   version: 0.31.0
   license: MIT
   open_source: true
@@ -197,13 +210,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20017/default_70556f9333e0a39c148cac0c36ca24235943f270.png
-  detection_source_url: ChronosEdge_LegendOfAscendia/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/Chronos-Edge-Legend-of-Ascendia/blob/main/ChronosEdge_LegendOfAscendia/requirements.txt
   detection_source: ChronosEdge_LegendOfAscendia/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-13 22:48:30.000000000 Z
 - name: greenlet
   description: Lightweight in-process concurrent programming
-  package_url: https://pypi.org/greenlet
+  package_url: https://pypi.org/project/greenlet
   version: 1.1.1
   license: MIT
   open_source: true
@@ -211,13 +224,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20137/default_e3ea003987b13e5c9b8c9000c748b25a9c0d9ecd.png
-  detection_source_url: ChronosEdge_LegendOfAscendia/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/Chronos-Edge-Legend-of-Ascendia/blob/main/ChronosEdge_LegendOfAscendia/requirements.txt
   detection_source: ChronosEdge_LegendOfAscendia/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-13 22:48:30.000000000 Z
 - name: gunicorn
   description: WSGI HTTP Server for UNIX
-  package_url: https://pypi.org/gunicorn
+  package_url: https://pypi.org/project/gunicorn
   version: 20.1.0
   license: MIT
   open_source: true
@@ -225,14 +238,14 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19931/default_74a0c20721d3a0a1484d69586401591fe8993db2.png
-  detection_source_url: ChronosEdge_LegendOfAscendia/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/Chronos-Edge-Legend-of-Ascendia/blob/main/ChronosEdge_LegendOfAscendia/requirements.txt
   detection_source: ChronosEdge_LegendOfAscendia/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-13 22:48:30.000000000 Z
 - name: lxml
   description: Powerful and Pythonic XML processing library combining libxml2/libxslt
     with the ElementTree API
-  package_url: https://pypi.org/lxml
+  package_url: https://pypi.org/project/lxml
   version: 4.6.3
   license: BSD-3-Clause
   open_source: true
@@ -240,7 +253,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19835/default_85689b353a3a9409328e253ea28d859d29151e0c.png
-  detection_source_url: ChronosEdge_LegendOfAscendia/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/Chronos-Edge-Legend-of-Ascendia/blob/main/ChronosEdge_LegendOfAscendia/requirements.txt
   detection_source: ChronosEdge_LegendOfAscendia/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-13 22:48:30.000000000 Z
@@ -259,7 +272,7 @@ tools:
     first_patched: 4.9.1
 - name: pandas
   description: Powerful data structures for data analysis
-  package_url: https://pypi.org/pandas
+  package_url: https://pypi.org/project/pandas
   version: 1.3.3
   license: BSD-3-Clause
   open_source: true
@@ -267,13 +280,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19837/default_85689b353a3a9409328e253ea28d859d29151e0c.png
-  detection_source_url: ChronosEdge_LegendOfAscendia/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/Chronos-Edge-Legend-of-Ascendia/blob/main/ChronosEdge_LegendOfAscendia/requirements.txt
   detection_source: ChronosEdge_LegendOfAscendia/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-13 22:48:30.000000000 Z
 - name: pyasn1
   description: ASN.1 types and codecs
-  package_url: https://pypi.org/pyasn1
+  package_url: https://pypi.org/project/pyasn1
   version: 0.4.8
   license: BSD-2-Clause
   open_source: true
@@ -281,13 +294,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19915/default_37434feaacace26053e41d6e4802560af16ebe44.png
-  detection_source_url: ChronosEdge_LegendOfAscendia/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/Chronos-Edge-Legend-of-Ascendia/blob/main/ChronosEdge_LegendOfAscendia/requirements.txt
   detection_source: ChronosEdge_LegendOfAscendia/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-13 22:48:30.000000000 Z
 - name: pyasn1-modules
   description: A collection of ASN.1-based protocols modules
-  package_url: https://pypi.org/pyasn1-modules
+  package_url: https://pypi.org/project/pyasn1-modules
   version: 0.2.8
   license: BSD-2-Clause
   open_source: true
@@ -295,13 +308,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20090/default_36085c16346155862c5c1303e8a0a70416453533.png
-  detection_source_url: ChronosEdge_LegendOfAscendia/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/Chronos-Edge-Legend-of-Ascendia/blob/main/ChronosEdge_LegendOfAscendia/requirements.txt
   detection_source: ChronosEdge_LegendOfAscendia/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-13 22:48:30.000000000 Z
 - name: pycrypto
   description: Cryptographic modules for Python
-  package_url: https://pypi.org/pycrypto
+  package_url: https://pypi.org/project/pycrypto
   version: 2.6.1
   license: Unlicense
   open_source: true
@@ -309,7 +322,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19985/default_ccb381b493daf0d966e015380e1894fdbc637ad3.png
-  detection_source_url: ChronosEdge_LegendOfAscendia/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/Chronos-Edge-Legend-of-Ascendia/blob/main/ChronosEdge_LegendOfAscendia/requirements.txt
   detection_source: ChronosEdge_LegendOfAscendia/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-13 22:48:30.000000000 Z
@@ -328,7 +341,7 @@ tools:
     first_patched: 
 - name: pyglet
   description: Cross-platform windowing and multimedia library
-  package_url: https://pypi.org/pyglet
+  package_url: https://pypi.org/project/pyglet
   version: 1.5.15
   license: BSD-3-Clause
   open_source: true
@@ -336,13 +349,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20301/default_1801c4854c9a56a25ccd7b33a13647a1e901ed84.png
-  detection_source_url: ChronosEdge_LegendOfAscendia/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/Chronos-Edge-Legend-of-Ascendia/blob/main/ChronosEdge_LegendOfAscendia/requirements.txt
   detection_source: ChronosEdge_LegendOfAscendia/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-13 22:48:30.000000000 Z
 - name: python-engineio
   description: Engine.IO server
-  package_url: https://pypi.org/python-engineio
+  package_url: https://pypi.org/project/python-engineio
   version: 4.2.1
   license: MIT
   open_source: true
@@ -350,13 +363,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/pypi/image.png
-  detection_source_url: ChronosEdge_LegendOfAscendia/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/Chronos-Edge-Legend-of-Ascendia/blob/main/ChronosEdge_LegendOfAscendia/requirements.txt
   detection_source: ChronosEdge_LegendOfAscendia/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-13 22:48:30.000000000 Z
 - name: python-socketio
   description: Socket.IO server
-  package_url: https://pypi.org/python-socketio
+  package_url: https://pypi.org/project/python-socketio
   version: 5.3.0
   license: MIT
   open_source: true
@@ -364,13 +377,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20330/default_cf6b540611cb9b9b5d016a661f54f50ad3400f1a.png
-  detection_source_url: ChronosEdge_LegendOfAscendia/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/Chronos-Edge-Legend-of-Ascendia/blob/main/ChronosEdge_LegendOfAscendia/requirements.txt
   detection_source: ChronosEdge_LegendOfAscendia/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-13 22:48:30.000000000 Z
 - name: requests
   description: Python HTTP for Humans
-  package_url: https://pypi.org/requests
+  package_url: https://pypi.org/project/requests
   version: 2.26.0
   license: Apache-2.0
   open_source: true
@@ -378,7 +391,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19826/default_d7c684bf2673f008a9f02ac93901229297a22d7e.png
-  detection_source_url: ChronosEdge_LegendOfAscendia/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/Chronos-Edge-Legend-of-Ascendia/blob/main/ChronosEdge_LegendOfAscendia/requirements.txt
   detection_source: ChronosEdge_LegendOfAscendia/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-13 22:48:30.000000000 Z
@@ -391,7 +404,7 @@ tools:
     first_patched: 2.31.0
 - name: service_identity
   description: Service identity verification for pyOpenSSL &amp; cryptography
-  package_url: https://pypi.org/service_identity
+  package_url: https://pypi.org/project/service_identity
   version: 21.1.0
   license: MIT
   open_source: true
@@ -399,13 +412,13 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/pypi/image.png
-  detection_source_url: ChronosEdge_LegendOfAscendia/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/Chronos-Edge-Legend-of-Ascendia/blob/main/ChronosEdge_LegendOfAscendia/requirements.txt
   detection_source: ChronosEdge_LegendOfAscendia/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-13 22:48:30.000000000 Z
 - name: zope.interface
   description: Interfaces for Python
-  package_url: https://pypi.org/zope.interface
+  package_url: https://pypi.org/project/zope.interface
   version: 5.4.0
   license: ZPL-2.1
   open_source: true
@@ -413,7 +426,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19905/default_3846e1a96a2a21d085febee35b98cbcb22994ee7.png
-  detection_source_url: ChronosEdge_LegendOfAscendia/requirements.txt
+  detection_source_url: https://github.com/Or4cl3AI/Chronos-Edge-Legend-of-Ascendia/blob/main/ChronosEdge_LegendOfAscendia/requirements.txt
   detection_source: ChronosEdge_LegendOfAscendia/requirements.txt
   last_updated_by: e2b-for-github[bot]
   last_updated_on: 2023-08-13 22:48:30.000000000 Z
