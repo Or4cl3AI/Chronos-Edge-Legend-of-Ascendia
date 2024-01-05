@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 Or4cl3AI/Chronos-Edge-Legend-of-Ascendia is built on the following main stack:
+
 - [Python](https://www.python.org) – Languages
 - [gevent](http://gevent.org) – Web Servers
 - [NumPy](http://www.numpy.org/) – Data Science Tools
@@ -11,11 +12,13 @@ Or4cl3AI/Chronos-Edge-Legend-of-Ascendia is built on the following main stack:
 - [Zope](https://www.zope.org) – Web Servers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 Or4cl3AI/Chronos-Edge-Legend-of-Ascendia is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1772/s9Bm2Iyx_400x400.jpg' alt='gevent'/> [gevent](http://gevent.org) – Web Servers
 - <img width='25' height='25' src='https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png' alt='NumPy'/> [NumPy](http://www.numpy.org/) – Data Science Tools
@@ -25,14 +28,15 @@ Or4cl3AI/Chronos-Edge-Legend-of-Ascendia is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/6969/zopeHIres_400x400.jpg' alt='Zope'/> [Zope](https://www.zope.org) – Web Servers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [Or4cl3AI/Chronos-Edge-Legend-of-Ascendia](https://github.com/Or4cl3AI/Chronos-Edge-Legend-of-Ascendia)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|26<br/>Tools used|11/24/23 <br/>Report generated|
+|26<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -140,23 +144,23 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[autobahn](https://pypi.org/autobahn)|v21.3.1|08/13/23|e2b-for-github[bot] |MIT|N/A|
-|[beautifulsoup4](https://pypi.org/beautifulsoup4)|v4.9.3|08/13/23|e2b-for-github[bot] |MIT|N/A|
-|[cryptography](https://pypi.org/cryptography)|v3.4.7|08/13/23|e2b-for-github[bot] |BSD-3-Clause,Apache-2.0|[CVE-2023-0286](https://github.com/advisories/GHSA-x4qr-2fvf-3mr5) (High)<br/>[CVE-2023-23931](https://github.com/advisories/GHSA-w7pp-m8wf-vj6r) (Moderate)<br/>[](https://github.com/advisories/GHSA-5cpq-8wj7-hf2v) (Low)<br/>[](https://github.com/advisories/GHSA-jm77-qphf-c4w8) (Low)<br/>[](https://github.com/advisories/GHSA-v8gr-m533-ghj9) (Low)|
-|[eventlet](https://pypi.org/eventlet)|v0.31.0|08/13/23|e2b-for-github[bot] |MIT|N/A|
-|[greenlet](https://pypi.org/greenlet)|v1.1.1|08/13/23|e2b-for-github[bot] |MIT|N/A|
-|[gunicorn](https://pypi.org/gunicorn)|v20.1.0|08/13/23|e2b-for-github[bot] |MIT|N/A|
-|[lxml](https://pypi.org/lxml)|v4.6.3|08/13/23|e2b-for-github[bot] |BSD-3-Clause|[CVE-2021-43818](https://github.com/advisories/GHSA-55x5-fj6c-h6m8) (High)<br/>[CVE-2022-2309](https://github.com/advisories/GHSA-wrxv-2j5q-m38w) (Moderate)|
-|[pandas](https://pypi.org/pandas)|v1.3.3|08/13/23|e2b-for-github[bot] |BSD-3-Clause|N/A|
-|[pyasn1](https://pypi.org/pyasn1)|v0.4.8|08/13/23|e2b-for-github[bot] |BSD-2-Clause|N/A|
-|[pyasn1-modules](https://pypi.org/pyasn1-modules)|v0.2.8|08/13/23|e2b-for-github[bot] |BSD-2-Clause|N/A|
-|[pycrypto](https://pypi.org/pycrypto)|v2.6.1|08/13/23|e2b-for-github[bot] |Unlicense|[CVE-2013-7459](https://github.com/advisories/GHSA-cq27-v7xp-c356) (Critical)<br/>[CVE-2018-6594](https://github.com/advisories/GHSA-6528-wvf6-f6qg) (High)|
-|[pyglet](https://pypi.org/pyglet)|v1.5.15|08/13/23|e2b-for-github[bot] |BSD-3-Clause|N/A|
-|[python-engineio](https://pypi.org/python-engineio)|v4.2.1|08/13/23|e2b-for-github[bot] |MIT|N/A|
-|[python-socketio](https://pypi.org/python-socketio)|v5.3.0|08/13/23|e2b-for-github[bot] |MIT|N/A|
-|[requests](https://pypi.org/requests)|v2.26.0|08/13/23|e2b-for-github[bot] |Apache-2.0|[CVE-2023-32681](https://github.com/advisories/GHSA-j8r2-6x86-q33q) (Moderate)|
-|[service_identity](https://pypi.org/service_identity)|v21.1.0|08/13/23|e2b-for-github[bot] |MIT|N/A|
-|[zope.interface](https://pypi.org/zope.interface)|v5.4.0|08/13/23|e2b-for-github[bot] |ZPL-2.1|N/A|
+|[autobahn](https://pypi.org/project/autobahn)|v21.3.1|08/13/23|e2b-for-github[bot] |MIT|N/A|
+|[beautifulsoup4](https://pypi.org/project/beautifulsoup4)|v4.9.3|08/13/23|e2b-for-github[bot] |MIT|N/A|
+|[cryptography](https://pypi.org/project/cryptography)|v3.4.7|08/13/23|e2b-for-github[bot] |BSD-3-Clause,Apache-2.0|[CVE-2023-0286](https://github.com/advisories/GHSA-x4qr-2fvf-3mr5) (High)<br/>[CVE-2023-23931](https://github.com/advisories/GHSA-w7pp-m8wf-vj6r) (Moderate)<br/>[CVE-2023-49083](https://github.com/advisories/GHSA-jfhm-5ghh-2f97) (Moderate)<br/>[](https://github.com/advisories/GHSA-jm77-qphf-c4w8) (Low)<br/>[](https://github.com/advisories/GHSA-v8gr-m533-ghj9) (Low)<br/>[](https://github.com/advisories/GHSA-5cpq-8wj7-hf2v) (Low)|
+|[eventlet](https://pypi.org/project/eventlet)|v0.31.0|08/13/23|e2b-for-github[bot] |MIT|N/A|
+|[greenlet](https://pypi.org/project/greenlet)|v1.1.1|08/13/23|e2b-for-github[bot] |MIT|N/A|
+|[gunicorn](https://pypi.org/project/gunicorn)|v20.1.0|08/13/23|e2b-for-github[bot] |MIT|N/A|
+|[lxml](https://pypi.org/project/lxml)|v4.6.3|08/13/23|e2b-for-github[bot] |BSD-3-Clause|[CVE-2021-43818](https://github.com/advisories/GHSA-55x5-fj6c-h6m8) (High)<br/>[CVE-2022-2309](https://github.com/advisories/GHSA-wrxv-2j5q-m38w) (Moderate)|
+|[pandas](https://pypi.org/project/pandas)|v1.3.3|08/13/23|e2b-for-github[bot] |BSD-3-Clause|N/A|
+|[pyasn1](https://pypi.org/project/pyasn1)|v0.4.8|08/13/23|e2b-for-github[bot] |BSD-2-Clause|N/A|
+|[pyasn1-modules](https://pypi.org/project/pyasn1-modules)|v0.2.8|08/13/23|e2b-for-github[bot] |BSD-2-Clause|N/A|
+|[pycrypto](https://pypi.org/project/pycrypto)|v2.6.1|08/13/23|e2b-for-github[bot] |Unlicense|[CVE-2013-7459](https://github.com/advisories/GHSA-cq27-v7xp-c356) (Critical)<br/>[CVE-2018-6594](https://github.com/advisories/GHSA-6528-wvf6-f6qg) (High)|
+|[pyglet](https://pypi.org/project/pyglet)|v1.5.15|08/13/23|e2b-for-github[bot] |BSD-3-Clause|N/A|
+|[python-engineio](https://pypi.org/project/python-engineio)|v4.2.1|08/13/23|e2b-for-github[bot] |MIT|N/A|
+|[python-socketio](https://pypi.org/project/python-socketio)|v5.3.0|08/13/23|e2b-for-github[bot] |MIT|N/A|
+|[requests](https://pypi.org/project/requests)|v2.26.0|08/13/23|e2b-for-github[bot] |Apache-2.0|[CVE-2023-32681](https://github.com/advisories/GHSA-j8r2-6x86-q33q) (Moderate)|
+|[service_identity](https://pypi.org/project/service_identity)|v21.1.0|08/13/23|e2b-for-github[bot] |MIT|N/A|
+|[zope.interface](https://pypi.org/project/zope.interface)|v5.4.0|08/13/23|e2b-for-github[bot] |ZPL-2.1|N/A|
 
 <br/>
 <div align='center'>
